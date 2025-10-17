@@ -70,9 +70,9 @@ Atlas Explorer is organized into modular services, making it easy to extend or d
 
 Atlas Explorer was designed around three pillars:
 
-**1. Transparency** — expose what’s really happening in your game. 
-**2. Control** — empower developers to fix and optimize issues on the fly. 
-**3. Extensibility** — serve as a foundation for future debugging and visualization tools. 
+**1. Transparency** — expose what’s really happening in your game.  
+**2. Control** — empower developers to fix and optimize issues on the fly.  
+**3. Extensibility** — serve as a foundation for future debugging and visualization tools.  
 
 This project isn’t just for convenience — it’s about making *runtime diagnostics accessible to every Roblox developer*.
 
@@ -95,9 +95,9 @@ If you use Atlas in your own projects, please include visible credit or a reposi
 Contributions are welcome!
 If you’d like to propose new debugging modules or performance analysis ideas:
 
-1. Fork the repo
-2. Create a feature branch
-3. Submit a pull request with documentation and reasoning
+**1. Fork** the repo.  
+**2. Create** a feature branch.  
+**3. Submit** a pull request with documentation and reasoning.  
 
 ---
 
