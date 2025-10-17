@@ -1,5 +1,9 @@
 # 🧭 Atlas Explorer
 
+  [![License: Custom](https://img.shields.io/badge/license-Custom-blue.svg)]()
+  [![Version](https://img.shields.io/badge/version-0.1--alpha-orange.svg)]()
+  [![Made for Roblox](https://img.shields.io/badge/platform-Roblox-lightgrey.svg)]()
+
 **Atlas Explorer** is an advanced in-game developer suite for Roblox — built to help creators visualize, debug, and optimize their games *directly inside the live environment*.  
 
 It provides real-time insights into your workspace, performance, and scripts with the goal of becoming the **must-have tool for all Roblox developers**.
