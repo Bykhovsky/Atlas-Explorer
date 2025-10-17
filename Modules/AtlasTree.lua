@@ -207,13 +207,13 @@ function Tree:_doRefresh()
 			_index = 0,
 		}
 		self.NodeByInstance[inst] = node
-		for _, c in ipairs(inst:GetChildren()) do
+		for _, c in pairs(inst:GetChildren()) do
 			table.insert(node.children, rec(c, node, depth + 1))
 		end
 		buildAndSortChildren(node)
 		return node
 	end
-	for _, r in ipairs(roots) do
+	for _, r in pairs(roots) do
 		table.insert(self.Roots, rec(r, nil, 0))
 	end
 
