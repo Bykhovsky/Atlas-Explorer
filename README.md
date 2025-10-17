@@ -1,4 +1,4 @@
-# 🧭 Atlas Explorer
+# ![Atlas Explorer Demo](docs/demo.gif) Atlas Explorer
 
   [![License: Custom](https://img.shields.io/badge/license-Custom-blue.svg)]()
   [![Version](https://img.shields.io/badge/version-0.1--alpha-orange.svg)]()
